@@ -14,4 +14,9 @@ public: // aksess modifer
 	}
 };
 
-class Matakuliah{};
+class Matakuliah {
+private:
+	string kodeMk;
+	string kodeMk;
+	int sks;
+};
