@@ -20,5 +20,7 @@ private:
 	string kodeMk;
 	int sks;
 public :
+	void input() {
 
+	}
 };
