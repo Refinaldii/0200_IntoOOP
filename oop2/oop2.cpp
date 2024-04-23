@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 using namespace std;
 
@@ -11,10 +9,14 @@ private:
 public:
     float luas;
 
-    void input() {}
+    void input() {
+        cout << "Masukan Panjangnya = ";
+        cin >> panjang;
+        cout << "Masukan Lebarnya = ";
+        cin >> lebar; 
+    }
 };
-int main()
-{
-    
-}
 
+int main() {
+    return 0;
+}
