@@ -27,5 +27,6 @@ public:
 };
 
 int main() {
+    bangunDatar pp; // deklarasi obejek pp dari class abangun datar
     return 0;
 }
