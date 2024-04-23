@@ -28,5 +28,7 @@ public:
 
 int main() {
     bangunDatar pp; // deklarasi obejek pp dari class abangun datar
+    pp.input();
+    pp.display();
     return 0;
 }
