@@ -15,6 +15,8 @@ public:
         cout << "Masukan Lebarnya = ";
         cin >> lebar; 
     }
+
+    float hitungLuas (){}
 };
 
 int main() {
