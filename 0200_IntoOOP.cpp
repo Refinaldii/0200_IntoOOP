@@ -19,4 +19,6 @@ private:
 	string kodeMk;
 	string kodeMk;
 	int sks;
+public :
+
 };
