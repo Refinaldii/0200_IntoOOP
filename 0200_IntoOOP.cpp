@@ -13,3 +13,5 @@ public: // aksess modifer
 		cout << "Jurusan: " << jurusan << endl;
 	}
 };
+
+class Matakuliah{};
