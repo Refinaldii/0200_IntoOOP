@@ -31,6 +31,8 @@ public :
 	}
 	
 	void output() {
-		
+		cout << "Kode MK: " << kodeMk << endl;
+		cout << "Nama Mk: " << namaMK << endl;
+		cout << "SKS: " << sks << endl;
 	}
 };
