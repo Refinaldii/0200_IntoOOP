@@ -17,10 +17,16 @@ public: // aksess modifer
 class Matakuliah {
 private:
 	string kodeMk;
-	string kodeMk;
+	string namaMK;
 	int sks;
 public :
 	void input() {
+		cout << "Kode MK: ";
+		cin >> kodeMk;
+		cout << "Nama MK: ";
+		cin >> namaMK;
+		cout << "SKS: ";
+		cin >> sks;
 
 	}
 };
